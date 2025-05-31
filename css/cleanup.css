@@ -1,1 +1,25 @@
-/* write your override styles here */
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  color: #333333;
+  text-transform: uppercase;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Add more styles to reach at least 300 bytes */
